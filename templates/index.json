@@ -13,8 +13,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Sales page",
-            "button_link_1": "shopify:\/\/sales-page",
+            "button_label_1": "Sales",
+            "button_link_1": "shopify:\/\/pages\/sales",
             "button_style_secondary_1": true,
             "button_label_2": "Our collections",
             "button_link_2": "shopify:\/\/collections\/all",
